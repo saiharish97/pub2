@@ -1,4 +1,2 @@
 # pub2
-
-Hej 
-GodG. RugG
+Hello GAWD.
